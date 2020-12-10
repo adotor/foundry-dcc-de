@@ -171,7 +171,7 @@
   "DCC.HalflingTwoWeaponActionDie": "Aktionswürfel d16+d16",
   "DCC.HalflingTwoWeaponCrit": "Krit auf natürlicher 16",
   "DCC.HalflingTwoWeaponFumble": "Patzer nur bei 2x 1",
-  "DCC.HalflingTwoWeaponHighAg": "Falls GE &gt; 16 normale Regeln verwenden",
+  "DCC.HalflingTwoWeaponHighAg": "Falls GE > 16 normale Regeln verwenden",
   "DCC.HandlePoison": "Gift mischen",
   "DCC.HealDamage": "{target} wurde um {damage} TP geheilt.",
   "DCC.Healing": "Heilung",
