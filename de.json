@@ -185,6 +185,7 @@
   "DCC.ImportStats": "Import",
   "DCC.Infravision": "Dunkelsicht",
   "DCC.InheritActionDie": "Aktionswürfel übernehmen",
+  "DCC.InheritCritRange": "Krit-Bereich übernehmen",
   "DCC.InheritSpellCheck": "Zauberwurf übernehmen",
   "DCC.Init": "Initiative",
   "DCC.Initiative": "Initiative",
