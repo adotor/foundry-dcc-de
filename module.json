@@ -4,7 +4,7 @@
   "description": "Deutsche Übersetzung für das Dungeon Crawl Classics System",
   "version": "1.0.3",
   "minimumCoreVersion" : "0.6.6",
-  "compatibleCoreVersion":"0.7.9",
+  "compatibleCoreVersion":"0.8.8",
   "author": "adotor",
   "systems": ["dcc"],   
   "languages": [{
@@ -13,6 +13,6 @@
     "path": "de.json"
   }],
   "url": "https://github.com/adotor/foundry-dcc-de/",
-  "manifest": "https://github.com/adotor/foundry-dcc-de/raw/main/module.json",
-  "download": "https://github.com/adotor/foundry-dcc-de/archive/main.zip"
+  "manifest": "https://github.com/adotor/foundry-dcc-de/raw/dcc-0.29.1/module.json",
+  "download": "https://github.com/adotor/foundry-dcc-de/archive/dcc-0.29.1.zip"
 }
