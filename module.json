@@ -1,9 +1,9 @@
 {
-  "name": "dcc-de",
+  "id": "dcc-de",
   "title": "DCC Dungeon Crawl Classics German Translation",
   "description": "Deutsche Übersetzung für das Dungeon Crawl Classics System",
-  "version": "1.0.7",
-  "minimumCoreVersion" : "0.8.9",
+  "version": "11.36.1",
+  "minimumCoreVersion" : "9",
   "compatibleCoreVersion":"9",
   "compatibility": {
     "minimum": 9,
