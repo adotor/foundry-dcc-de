@@ -2,7 +2,7 @@
   "id": "dcc-de",
   "title": "DCC Dungeon Crawl Classics German Translation",
   "description": "Deutsche Übersetzung für das Dungeon Crawl Classics System",
-  "version": "11.36.2",
+  "version": "11.36.3",
   "minimumCoreVersion" : "9",
   "compatibleCoreVersion":"9",
   "compatibility": {
@@ -27,6 +27,6 @@
     "path": "de.json"
   }],
   "url": "https://github.com/adotor/foundry-dcc-de/",
-  "manifest": "https://github.com/adotor/foundry-dcc-de/raw/v11.36.2/module.json",
-  "download": "https://github.com/adotor/foundry-dcc-de/archive/v11.36.2.zip"
+  "manifest": "https://github.com/adotor/foundry-dcc-de/raw/v11.36.3/module.json",
+  "download": "https://github.com/adotor/foundry-dcc-de/archive/v11.36.3.zip"
 }
