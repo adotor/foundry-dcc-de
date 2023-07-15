@@ -524,6 +524,7 @@
   "DCC.WarriorLevel": "Kriegerstufe",
   "DCC.Weapon": "Waffe",
   "DCC.WeaponEquipped": "Angelegt",
+  "DCC.WeaponTrained": "Geübt",
   "DCC.WeaponNotFound" : "Es gibt keine Waffe mit id '{id}'.",
   "DCC.WeaponPropertiesBackstab": "Hinterh. Ang.",
   "DCC.WeaponPropertiesBackstabDamage": "Extraschaden",
