@@ -1,4 +1,4 @@
-# [OBSOLETE] The anguage file is now integrated into the dcc core module.
+# [OBSOLETE] The german language file is now integrated into the dcc core module.
 
 # foundry-dcc-de
 German translation of the DCC (Dungeon Crawl Classics) system for Foundry Virtual Tabeltop.
